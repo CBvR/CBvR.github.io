@@ -13,6 +13,10 @@
     object-position: 0px -25vw;
 }
 
+.background{
+    display: none;
+}
+
 .centered_text{
     position: absolute;
     margin-top: -12vw;
@@ -58,7 +62,7 @@
     display: none;
     position: absolute;
     background-color: #f9f9f9;
-    min-width: 0vw;
+    width: 100%;
     z-index: 1;
     font-family: Arial, Helvetica, sans-serif;
 }
