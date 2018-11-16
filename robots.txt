@@ -1,4 +1,0 @@
-User-Agent: *
-Disallow: /inholland
-
-Sitemap: https://cbvr.github.io/sitemap.xml
