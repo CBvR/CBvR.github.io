@@ -1,3 +1,0 @@
-student name : Chris van Roode
-student number : 627687
-student class : Inf1819S1a
